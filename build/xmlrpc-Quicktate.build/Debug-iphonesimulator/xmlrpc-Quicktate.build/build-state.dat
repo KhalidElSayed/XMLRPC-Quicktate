@@ -1,0 +1,844 @@
+Txmlrpc-Quicktate
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/Info.plist xmlrpc-Quicktate/xmlrpc-Quicktate-Info.plist
+cProcessPCH /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch.gch xmlrpc-Quicktate/xmlrpc-Quicktate-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/main.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/xmlrpc_QuicktateAppDelegate.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/xmlrpc_QuicktateViewController.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCConnection.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCConnection.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCDecoder.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCEncoder.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCEncoder.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCExtensions.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCExtensions.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCRequest.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCRequest.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCResponse.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCResponse.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLValueDecoder.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLValueDecoder.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/NSString+XMLExtensions.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/NSString+XMLExtensions.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/Quicktate.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Quicktate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/Base64.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Base64.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/xmlrpc-Quicktate normal i386
+cGenerateDSYMFile /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app.dSYM /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/xmlrpc-Quicktate
+cCopyStringsFile /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/en.lproj/InfoPlist.strings xmlrpc-Quicktate/en.lproj/InfoPlist.strings
+cCompileXIB /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/MainWindow.xib
+cCompileXIB /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/xmlrpc_QuicktateViewController.xib
+cCpResource xmlrpc-Quicktate/002-Vowels.mp3 build/Debug-iphonesimulator/xmlrpc-Quicktate.app/002-Vowels.mp3
+cTouch /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h
+c000000004D54CFB90000000000001777
+t1297403833
+s6007
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004D54CFBD0000000000006506
+t1297403837
+s25862
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app
+t1316160377
+s238
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app.dSYM
+t1316160377
+s102
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/002-Vowels.mp3
+t1316160377
+s2188434
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/Info.plist
+t1316154770
+s825
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/PkgInfo
+t1316154770
+s8
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/en.lproj/InfoPlist.strings
+t1316154777
+s42
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/en.lproj/MainWindow.nib
+t1316154780
+s1683
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/en.lproj/xmlrpc_QuicktateViewController.nib
+t1316154780
+s1269
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/xmlrpc-Quicktate
+t1316160377
+s84896
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/Base64.o
+t1316157024
+s10312
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/NSString+XMLExtensions.o
+t1316154776
+s9972
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/Quicktate.o
+t1316160151
+s19620
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCConnection.o
+t1316154775
+s15952
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCDecoder.o
+t1316159501
+s16252
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCEncoder.o
+t1316154775
+s29124
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCExtensions.o
+t1316154775
+s9244
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCRequest.o
+t1316154775
+s15852
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCResponse.o
+t1316157425
+s12676
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLValueDecoder.o
+t1316157412
+s26608
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/main.o
+t1316154775
+s3116
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/xmlrpc-Quicktate.LinkFileList
+c000000004E72F66000000000000007E2
+t1316157024
+s2018
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/xmlrpc_QuicktateAppDelegate.o
+t1316155617
+s48356
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/xmlrpc_QuicktateViewController.o
+t1316160377
+s36992
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/Base64.plist
+t1316159486
+s276
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/NSString+XMLExtensions.plist
+t1316159485
+s276
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/Quicktate.plist
+t1316160082
+s276
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/XMLRPCConnection.plist
+t1316159485
+s276
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/XMLRPCDecoder.plist
+t1316159501
+s1648
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/XMLRPCEncoder.plist
+t1316159485
+s276
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/XMLRPCExtensions.plist
+t1316159485
+s276
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/XMLRPCRequest.plist
+t1316159485
+s276
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/XMLRPCResponse.plist
+t1316159485
+s276
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/XMLValueDecoder.plist
+t1316159486
+s276
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/main.plist
+t1316159485
+s276
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/xmlrpc_QuicktateAppDelegate.plist
+t1316159485
+s276
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/xmlrpc_QuicktateViewController.plist
+t1316159485
+s276
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/002-Vowels.mp3
+c00000000446873740000000000216492
+t1147695988
+s2188434
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Base64.h
+c000000004D4FA6170000000000000240
+t1297065495
+s576
+i<Foundation/Foundation.h>
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Base64.m
+c000000004D4FA6170000000000000B55
+t1297065495
+s2901
+i"Base64.h"
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/NSString+XMLExtensions.h
+c0000000049B52C760000000000000111
+t1236610166
+s273
+i<UIKit/UIKit.h>
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/NSString+XMLExtensions.m
+c0000000049B52C760000000000000A5D
+t1236610166
+s2653
+i"NSString+XMLExtensions.h"
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Quicktate.h
+c000000004E72FF000000000000000628
+t1316159232
+s1576
+i<Foundation/Foundation.h>
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Quicktate.m
+c000000004E730263000000000000190B
+t1316160099
+s6411
+i"Quicktate.h"
+i"XMLRPCResponse.h"
+i"XMLRPCRequest.h"
+i"XMLRPCConnection.h"
+i"Base64.h"
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCConnection.h
+c000000004887A26A0000000000000809
+t1216848490
+s2057
+i<Foundation/Foundation.h>
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCConnection.m
+c000000004954816600000000000011E1
+t1230274918
+s4577
+i"XMLRPCConnection.h"
+i"XMLRPCRequest.h"
+i"XMLRPCResponse.h"
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.h
+c000000004E72F7F10000000000000596
+t1316157425
+s1430
+i<Foundation/Foundation.h>
+i"XMLValueDecoder.h"
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m
+c000000004E73000D0000000000000D27
+t1316159501
+s3367
+i"XMLRPCDecoder.h"
+i"XMLRPCExtensions.h"
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCEncoder.h
+c000000004887A26A00000000000005B9
+t1216848490
+s1465
+i<Foundation/Foundation.h>
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCEncoder.m
+c0000000049AE20860000000000002187
+t1236148358
+s8583
+i"XMLRPCEncoder.h"
+i"XMLRPCExtensions.h"
+i"NSString+XMLExtensions.h"
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCExtensions.h
+c000000004887A26A0000000000000590
+t1216848490
+s1424
+i<Foundation/NSData.h>
+i<Foundation/NSString.h>
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCExtensions.m
+c000000004887A26A00000000000014A2
+t1216848490
+s5282
+i"XMLRPCExtensions.h"
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCRequest.h
+c000000004887A26A00000000000006FB
+t1216848490
+s1787
+i<Foundation/Foundation.h>
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCRequest.m
+c00000000490EBEAA0000000000000E50
+t1225703082
+s3664
+i"XMLRPCRequest.h"
+i"XMLRPCEncoder.h"
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCResponse.h
+c000000004887A26A0000000000000609
+t1216848490
+s1545
+i<Foundation/Foundation.h>
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCResponse.m
+c00000000488B0EB60000000000000AB9
+t1217072822
+s2745
+i"XMLRPCResponse.h"
+i"XMLRPCDecoder.h"
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLValueDecoder.h
+c000000004E72F7E40000000000000305
+t1316157412
+s773
+i<Foundation/Foundation.h>
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLValueDecoder.m
+c000000004E72F7E400000000000019B8
+t1316157412
+s6584
+i"XMLValueDecoder.h"
+i"XMLRPCExtensions.h"
+i"NSString+XMLExtensions.h"
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/InfoPlist.strings
+c000000004E72ED16000000000000002D
+t1316154646
+s45
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/MainWindow.xib
+c000000004E72ED160000000000004E85
+t1316154646
+s20101
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/xmlrpc_QuicktateViewController.xib
+c000000004E72ED160000000000001A61
+t1316154646
+s6753
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/main.m
+c000000004E72ED16000000000000016B
+t1316154646
+s363
+i<UIKit/UIKit.h>
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc-Quicktate-Prefix.pch
+c000000004E72ED160000000000000152
+t1316154646
+s338
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.h
+c000000004E72ED1600000000000001CB
+t1316154646
+s459
+i<UIKit/UIKit.h>
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.m
+c000000004E72ED16000000000000098E
+t1316154646
+s2446
+i"xmlrpc_QuicktateAppDelegate.h"
+i"xmlrpc_QuicktateViewController.h"
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateViewController.h
+c000000004E72F0E1000000000000010B
+t1316155617
+s267
+i<UIKit/UIKit.h>
+
+N/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateViewController.m
+c000000004E7303780000000000000602
+t1316160376
+s1538
+i"xmlrpc_QuicktateViewController.h"
+i"Quicktate.h"
+
+N/var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch.gch
+t1316154775
+s12283312
+
+N/var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch.pth
+t1316159485
+s3351824
+
+Nxmlrpc-Quicktate/xmlrpc-Quicktate-Info.plist
+c000000004E72ED1600000000000004A9
+t1316154646
+s1193
+
+CAnalyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Base64.m
+s337852285.988723
+e337852286.246595
+r1
+xAnalyze
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Base64.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Base64.m3738fd7d3723b441^0c213f7e3723b441^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Base64.m0000000000000000^2455"Analyze xmlrpc-Quicktate/Base64.m    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch --analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Base64.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/Base64.plist
+
+CAnalyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/NSString+XMLExtensions.m
+s337852285.846415
+e337852285.915185
+r1
+xAnalyze
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/NSString+XMLExtensions.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/NSString+XMLExtensions.mfed4d87d3723b441^c349ea7d3723b441^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/NSString+XMLExtensions.m0000000000000000^2503"Analyze xmlrpc-Quicktate/NSString+XMLExtensions.m    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch --analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/NSString+XMLExtensions.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/NSString+XMLExtensions.plist
+
+CAnalyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Quicktate.m
+s337852882.063822
+e337852882.183064
+r1
+xAnalyze
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Quicktate.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Quicktate.md27210d23923b441^7c4838d23923b441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Quicktate.m0000000000000000^2464"Analyze xmlrpc-Quicktate/Quicktate.m    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch --analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Quicktate.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/Quicktate.plist
+
+CAnalyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCConnection.m
+s337852285.489550
+e337852285.555162
+r1
+xAnalyze
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCConnection.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCConnection.m336b7d7d3723b441^f71e8e7d3723b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCConnection.m0000000000000000^2485"Analyze xmlrpc-Quicktate/XMLRPCConnection.m    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch --analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCConnection.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/XMLRPCConnection.plist
+
+CAnalyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m
+s337852301.174918
+e337852301.245798
+r1
+xAnalyze
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m
+o/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m:76:9:{76:23-76:28}: warning: Value stored to 'elementName' is never read
+o         elementName = qName;
+o         ^             ~~~~~
+o1 warning generated.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.me2e62c8d3723b441^bc043f8d3723b441^-229"/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m:76:9:{76:23-76:28}: warning: Value stored to 'elementName' is never read         elementName = qName;         ^             ~~~~~1 warning generated.1(35%IDEActivityLogAnalyzerResultMessage2@43"Value stored to 'elementName' is never read-337852301#18446744073709551615#0#1(38%IDEActivityLogAnalyzerEventStepMessage3@43"Value stored to 'elementName' is never read-337852301#18446744073709551615#0#-1#32"com.apple.dt.IDE.analyzer.result23%DVTTextDocumentLocation4@91"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m0000000000000000^75#8#75#8#18446744073709551615#0#-1(4@91"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m0000000000000000^75#22#75#27#18446744073709551615#0#-43"Value stored to 'elementName' is never read1#32"com.apple.dt.IDE.analyzer.result4@91"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m0000000000000000^75#8#75#8#18446744073709551615#0#10"Dead store1(4@91"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m0000000000000000^75#22#75#27#18446744073709551615#0#-15"Dead assignment0#0#0#-19%DVTDocumentLocation5@91"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m0000000000000000^2476"Analyze xmlrpc-Quicktate/XMLRPCDecoder.m    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch --analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/XMLRPCDecoder.plist
+
+CAnalyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCEncoder.m
+s337852285.555291
+e337852285.620245
+r1
+xAnalyze
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCEncoder.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCEncoder.mbb438e7d3723b441^b0c99e7d3723b441^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCEncoder.m0000000000000000^2476"Analyze xmlrpc-Quicktate/XMLRPCEncoder.m    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch --analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCEncoder.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/XMLRPCEncoder.plist
+
+CAnalyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCExtensions.m
+s337852285.618763
+e337852285.715127
+r1
+xAnalyze
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCExtensions.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCExtensions.mc7829e7d3723b441^a9bdc47d3723b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCExtensions.m0000000000000000^2485"Analyze xmlrpc-Quicktate/XMLRPCExtensions.m    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch --analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCExtensions.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/XMLRPCExtensions.plist
+
+CAnalyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCRequest.m
+s337852285.620370
+e337852285.698974
+r1
+xAnalyze
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCRequest.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCRequest.m42ea9e7d3723b441^74b6c47d3723b441^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCRequest.m0000000000000000^2476"Analyze xmlrpc-Quicktate/XMLRPCRequest.m    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch --analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCRequest.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/XMLRPCRequest.plist
+
+CAnalyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCResponse.m
+s337852285.699132
+e337852285.846292
+r1
+xAnalyze
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCResponse.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCResponse.m971cb37d3723b441^da1fe07d3723b441^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCResponse.m0000000000000000^2479"Analyze xmlrpc-Quicktate/XMLRPCResponse.m    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch --analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCResponse.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/XMLRPCResponse.plist
+
+CAnalyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLValueDecoder.m
+s337852285.715269
+e337852286.007018
+r1
+xAnalyze
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLValueDecoder.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLValueDecoder.m0839b77d3723b441^32cc017e3723b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLValueDecoder.m0000000000000000^2482"Analyze xmlrpc-Quicktate/XMLValueDecoder.m    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch --analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLValueDecoder.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/XMLValueDecoder.plist
+
+CAnalyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/main.m
+s337852285.413033
+e337852285.488541
+r1
+xAnalyze
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/main.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/main.mb5e0697d3723b441^6e187d7d3723b441^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/main.m0000000000000000^2449"Analyze xmlrpc-Quicktate/main.m    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch --analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/main.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/main.plist
+
+CAnalyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.m
+s337852285.413038
+e337852285.489410
+r1
+xAnalyze
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.m93e0697d3723b441^e84d7d7d3723b441^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.m0000000000000000^2518"Analyze xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.m    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch --analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/xmlrpc_QuicktateAppDelegate.plist
+
+CAnalyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateViewController.m
+s337852285.488902
+e337852285.548961
+r1
+xAnalyze
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateViewController.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateViewController.m41457d7d3723b441^1a898c7d3723b441^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateViewController.m0000000000000000^2527"Analyze xmlrpc-Quicktate/xmlrpc_QuicktateViewController.m    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch --analyze /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateViewController.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/StaticAnalyzer/normal/i386/xmlrpc_QuicktateViewController.plist
+
+CBuild AST from /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Base64.m
+r0
+
+CBuild AST from /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/NSString+XMLExtensions.m
+r0
+
+CBuild AST from /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Quicktate.m
+r0
+
+CBuild AST from /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCConnection.m
+r0
+
+CBuild AST from /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m
+r0
+
+CBuild AST from /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCEncoder.m
+r0
+
+CBuild AST from /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCExtensions.m
+r0
+
+CBuild AST from /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCRequest.m
+r0
+
+CBuild AST from /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCResponse.m
+r0
+
+CBuild AST from /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLValueDecoder.m
+r0
+
+CBuild AST from /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/main.m
+r0
+
+CBuild AST from /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.m
+r0
+
+CBuild AST from /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateViewController.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc823c4273b23b441^1c24c8273b23b441^---0#1#0#--18"Check dependencies
+
+CCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/Base64.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Base64.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337849824.835059
+e337849824.937271
+r1
+xCompileC
+xbuild/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/Base64.o
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Base64.m15e2d5e02d23b441^b534fbe02d23b441^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Base64.m0000000000000000^2346"CompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/Base64.o xmlrpc-Quicktate/Base64.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Base64.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/Base64.o
+
+CCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/NSString+XMLExtensions.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/NSString+XMLExtensions.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337847575.994186
+e337847576.114072
+r1
+xCompileC
+xbuild/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/NSString+XMLExtensions.o
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/NSString+XMLExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/NSString+XMLExtensions.m30a1fe172523b441^8e3b1d182523b441^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/NSString+XMLExtensions.m0000000000000000^2410"CompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/NSString+XMLExtensions.o xmlrpc-Quicktate/NSString+XMLExtensions.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/NSString+XMLExtensions.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/NSString+XMLExtensions.o
+
+CCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/Quicktate.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Quicktate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337852951.047329
+e337852951.208976
+r1
+xCompileC
+xbuild/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/Quicktate.o
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Quicktate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Quicktate.m0c3b0c173a23b441^847f35173a23b441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Quicktate.m0000000000000000^2358"CompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/Quicktate.o xmlrpc-Quicktate/Quicktate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/Quicktate.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/Quicktate.o
+
+CCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCConnection.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCConnection.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337847575.547747
+e337847575.645939
+r1
+xCompileC
+xbuild/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCConnection.o
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCConnection.m1c5e8c172523b441^8863a5172523b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCConnection.m0000000000000000^2386"CompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCConnection.o xmlrpc-Quicktate/XMLRPCConnection.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCConnection.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCConnection.o
+
+CCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCDecoder.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337852301.169852
+e337852301.300077
+r1
+xCompileC
+xbuild/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCDecoder.o
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.maa9b2b8d3723b441^0bd24c8d3723b441^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m0000000000000000^2374"CompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCDecoder.o xmlrpc-Quicktate/XMLRPCDecoder.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCDecoder.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCDecoder.o
+
+CCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCEncoder.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCEncoder.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337847575.646304
+e337847575.865960
+r1
+xCompileC
+xbuild/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCEncoder.o
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCEncoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCEncoder.mef91a5172523b441^81b4e7172523b441^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCEncoder.m0000000000000000^2374"CompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCEncoder.o xmlrpc-Quicktate/XMLRPCEncoder.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCEncoder.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCEncoder.o
+
+CCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCExtensions.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCExtensions.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337847575.740952
+e337847575.830195
+r1
+xCompileC
+xbuild/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCExtensions.o
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCExtensions.m92cdbd172523b441^eaafe7172523b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCExtensions.m0000000000000000^2386"CompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCExtensions.o xmlrpc-Quicktate/XMLRPCExtensions.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCExtensions.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCExtensions.o
+
+CCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCRequest.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCRequest.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337847575.830342
+e337847575.991309
+r1
+xCompileC
+xbuild/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCRequest.o
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCRequest.mc9aed4172523b441^b6d801182523b441^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCRequest.m0000000000000000^2374"CompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCRequest.o xmlrpc-Quicktate/XMLRPCRequest.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCRequest.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCRequest.o
+
+CCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCResponse.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCResponse.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337850225.449805
+e337850225.558009
+r1
+xCompileC
+xbuild/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCResponse.o
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCResponse.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCResponse.m4f4073712f23b441^d2fb8e712f23b441^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCResponse.m0000000000000000^2378"CompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCResponse.o xmlrpc-Quicktate/XMLRPCResponse.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLRPCResponse.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLRPCResponse.o
+
+CCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLValueDecoder.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLValueDecoder.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337850212.359953
+e337850212.453340
+r1
+xCompileC
+xbuild/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLValueDecoder.o
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLValueDecoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLValueDecoder.mb24b5c642f23b441^5a0e74642f23b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLValueDecoder.m0000000000000000^2382"CompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLValueDecoder.o xmlrpc-Quicktate/XMLValueDecoder.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/XMLValueDecoder.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/XMLValueDecoder.o
+
+CCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/main.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337847575.374932
+e337847575.530790
+r1
+xCompileC
+xbuild/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/main.o
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/main.m7d2160172523b441^97e187172523b441^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/main.m0000000000000000^2338"CompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/main.o xmlrpc-Quicktate/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/main.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/main.o
+
+CCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/xmlrpc_QuicktateAppDelegate.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337848417.789139
+e337848417.953408
+r1
+xCompileC
+xbuild/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/xmlrpc_QuicktateAppDelegate.o
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.m8122ca612823b441^e21df4612823b441^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.m0000000000000000^2430"CompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/xmlrpc_QuicktateAppDelegate.o xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateAppDelegate.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/xmlrpc_QuicktateAppDelegate.o
+
+CCompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/xmlrpc_QuicktateViewController.o /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337853177.403646
+e337853177.593104
+r1
+xCompileC
+xbuild/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/xmlrpc_QuicktateViewController.o
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateViewController.m827267f93a23b441^47e897f93a23b441^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateViewController.m0000000000000000^2442"CompileC build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/xmlrpc_QuicktateViewController.o xmlrpc-Quicktate/xmlrpc_QuicktateViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc_QuicktateViewController.m -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/xmlrpc_QuicktateViewController.o
+
+CCompileXIB /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/MainWindow.xib
+s337847577.480490
+e337847580.275971
+r1
+xCompileXIB
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compiling /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/MainWindow.xib8b177b192523b441^b1a6461c2523b441^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/MainWindow.xib0000000000000000^687"CompileXIB xmlrpc-Quicktate/en.lproj/MainWindow.xib    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/en.lproj/MainWindow.nib /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/xmlrpc_QuicktateViewController.xib
+s337847577.484074
+e337847580.275487
+r1
+xCompileXIB
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/xmlrpc_QuicktateViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compiling /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/xmlrpc_QuicktateViewController.xib0c017c192523b441^e487461c2523b441^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/xmlrpc_QuicktateViewController.xib0000000000000000^747"CompileXIB xmlrpc-Quicktate/en.lproj/xmlrpc_QuicktateViewController.xib    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/en.lproj/xmlrpc_QuicktateViewController.nib /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/xmlrpc_QuicktateViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/en.lproj/InfoPlist.strings xmlrpc-Quicktate/en.lproj/InfoPlist.strings
+s337847577.480304
+e337847577.483958
+r1
+xCopyStringsFile
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/en.lproj/InfoPlist.strings
+xxmlrpc-Quicktate/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy xmlrpc-Quicktate/en.lproj/InfoPlist.strings73117b192523b441^36e47b192523b441^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/en.lproj/InfoPlist.strings0000000000000000^555"CopyStringsFile build/Debug-iphonesimulator/xmlrpc-Quicktate.app/en.lproj/InfoPlist.strings xmlrpc-Quicktate/en.lproj/InfoPlist.strings    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/en.lproj -- xmlrpc-Quicktate/en.lproj/InfoPlist.strings
+
+CCpResource xmlrpc-Quicktate/002-Vowels.mp3 build/Debug-iphonesimulator/xmlrpc-Quicktate.app/002-Vowels.mp3
+s337853177.892075
+e337853177.900157
+r1
+xCpResource
+xxmlrpc-Quicktate/002-Vowels.mp3
+xbuild/Debug-iphonesimulator/xmlrpc-Quicktate.app/002-Vowels.mp3
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug-iphonesimulator/xmlrpc-Quicktate.app/002-Vowels.mp3f679e4f93a23b441^f470e6f93a23b441^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/002-Vowels.mp3000020442305f041^554"CpResource xmlrpc-Quicktate/002-Vowels.mp3 build/Debug-iphonesimulator/xmlrpc-Quicktate.app/002-Vowels.mp3    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/002-Vowels.mp3 /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app
+
+CGenerateDSYMFile /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app.dSYM /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/xmlrpc-Quicktate
+s337853177.729633
+e337853177.889587
+r1
+xGenerateDSYMFile
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app.dSYM
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/xmlrpc-Quicktate
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Generating /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app.dSYM58e1baf93a23b441^95bbe3f93a23b441^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app.dSYM/0000000000000000^559"GenerateDSYMFile build/Debug-iphonesimulator/xmlrpc-Quicktate.app.dSYM build/Debug-iphonesimulator/xmlrpc-Quicktate.app/xmlrpc-Quicktate    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/xmlrpc-Quicktate -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app.dSYM
+
+CLd /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/xmlrpc-Quicktate normal i386
+s337853177.593350
+e337853177.729393
+r1
+xLd
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/xmlrpc-Quicktate
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Link /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/xmlrpc-Quicktatea70498f93a23b441^28babaf93a23b441^---0#0#0#--1051"Ld build/Debug-iphonesimulator/xmlrpc-Quicktate.app/xmlrpc-Quicktate normal i386    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -filelist /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/Objects-normal/i386/xmlrpc-Quicktate.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/xmlrpc-Quicktate
+
+CProcessInfoPlistFile /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/Info.plist xmlrpc-Quicktate/xmlrpc-Quicktate-Info.plist
+s337847570.700005
+e337847570.703787
+r1
+xProcessInfoPlistFile
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/Info.plist
+xxmlrpc-Quicktate/xmlrpc-Quicktate-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Process xmlrpc-Quicktate/xmlrpc-Quicktate-Info.pliste350b3122523b441^1631b4122523b441^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc-Quicktate-Info.plist0000000000000000^661"ProcessInfoPlistFile build/Debug-iphonesimulator/xmlrpc-Quicktate.app/Info.plist xmlrpc-Quicktate/xmlrpc-Quicktate-Info.plist    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility xmlrpc-Quicktate/xmlrpc-Quicktate-Info.plist -genpkginfo /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app/Info.plist
+
+CProcessPCH /Users/macpocket1/Library/Developer/Xcode/DerivedData/xmlrpc-Quicktate-cptguqfpozkpnxdxvtcljysojyfr/Index/PrecompiledHeaders/xmlrpc-Quicktate-Prefix-dfxlmatnlyphzoezthyvcicebykj_ast/xmlrpc-Quicktate-Prefix.pch.pth xmlrpc-Quicktate/xmlrpc-Quicktate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch.gch xmlrpc-Quicktate/xmlrpc-Quicktate-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s337847570.705477
+e337847575.374560
+r1
+xProcessPCH
+x/var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch.gch
+xxmlrpc-Quicktate/xmlrpc-Quicktate-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile xmlrpc-Quicktate/xmlrpc-Quicktate-Prefix.pch11c5b4122523b441^5fee5f172523b441^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc-Quicktate-Prefix.pch0000000000000000^2322"ProcessPCH /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch.gch xmlrpc-Quicktate/xmlrpc-Quicktate-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc-Quicktate-Prefix.pch -o /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-dpiwjpuanyopviclsdfehqqxgjzx/xmlrpc-Quicktate-Prefix.pch.gch
+
+CProcessPCH /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch.pth xmlrpc-Quicktate/xmlrpc-Quicktate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s337852284.858899
+e337852285.412202
+r1
+xProcessPCH
+x/var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch.pth
+xxmlrpc-Quicktate/xmlrpc-Quicktate-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile xmlrpc-Quicktate/xmlrpc-Quicktate-Prefix.pch9301dc7c3723b441^0186697d3723b441^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc-Quicktate-Prefix.pch0000000000000000^2585"ProcessPCH /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch.pth xmlrpc-Quicktate/xmlrpc-Quicktate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-generated-files.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-own-target-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/xmlrpc-Quicktate-project-headers.hmap -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/include -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources/i386 -I/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/xmlrpc-Quicktate.build/Debug-iphonesimulator/xmlrpc-Quicktate.build/DerivedSources -F/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/xmlrpc-Quicktate/xmlrpc-Quicktate-Prefix.pch -o /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xmlrpc-Quicktate-Prefix-hgcfwdasqwcnshakcrjimzewgczl/xmlrpc-Quicktate-Prefix.pch.pth
+
+CTouch /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app
+s337853177.901825
+e337853177.911261
+r1
+xTouch
+x/Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Touch /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app3defe6f93a23b441^8848e9f93a23b441^---0#0#0#--350"Touch build/Debug-iphonesimulator/xmlrpc-Quicktate.app    cd /Users/macpocket1/Desktop/xmlrpc-Quicktate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/macpocket1/Desktop/xmlrpc-Quicktate/build/Debug-iphonesimulator/xmlrpc-Quicktate.app
+
